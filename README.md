@@ -10,18 +10,24 @@ Tento doplnok pre [Stremio](https://www.stremio.com/) umožňuje vyhľadávanie 
   Note: Use [Node.js](https://nodejs.org/en/blog/release/v20.9.0) v 20.09 LTS for testing.
 ---
 
-## ⚙️ Lokálna inštalácia a spustenie
+## 🧪 Lokálna inštalácia a spustenie
 
 ### 1. Klonovanie repozitára
+```bash
 git clone https://github.com/tvoj-username/stremio-sktorrent-addon.git
 cd stremio-sktorrent-addon
+```
 
 ### 2. Inicializácia
+```bash
 npm init -y
 npm install axios cheerio stremio-addon-sdk axios-cookiejar-support tough-cookie bncode entities
+```
 
 ### 3. Spustenie skriptu/doplnku v príkazovom riadku (v príkazovom riadku sa potom zobrazujú debug výpisy) 
+```bash
 node sktorrent-addon.js
+```
 
 ### 4. Overenie spustenia 
 Zadaj v prehliadači: http://127.0.0.1:7000/manifest.json
