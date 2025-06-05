@@ -58,3 +58,7 @@ MIT License (voľné použitie, bez záruky)
 ## 👨‍💻 Autor
 
 Tento addon bol vyvinutý ako komunitný projekt s cieľom poskytnúť streamingový rozšíriteľný doplnok pre platformu Stremio, využívajúci verejne dostupné odkazy z online.sktorrent.eu.
+
+Tento doplnok je experimentálny projekt na osobné účely.
+
+Ak máš návrhy na vylepšenie alebo chceš prispieť – neváhaj a pošli pull request.
