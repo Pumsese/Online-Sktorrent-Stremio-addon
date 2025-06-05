@@ -1,0 +1,21 @@
+{
+  "name": "online-sktorrent-stremio-addon",
+  "version": "1.0.0",
+  "description": "npm install axios cheerio stremio-addon-sdk\r node online-sktorrent-addon.js",
+  "main": "online-sktorrent-addon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "axios-cookiejar-support": "^6.0.2",
+    "bncode": "^0.5.3",
+    "cheerio": "^1.0.0",
+    "entities": "^6.0.0",
+    "stremio-addon-sdk": "^1.6.10",
+    "tough-cookie": "^5.1.2"
+  }
+}
