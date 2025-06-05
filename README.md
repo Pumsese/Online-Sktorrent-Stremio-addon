@@ -33,7 +33,7 @@ node sktorrent-addon.js
 Zadaj v prehliadači: http://127.0.0.1:7000/manifest.json
 
 ### 5. Inštalácia doplnku v aplikácii Stremio 
-V aplikácii Stremio klikni na "Addons" a potom na tlačidlo "Add addon" alebo jednoducho zadaj nasledovný odkaz do vyhľadávacieh poľa zadaj nasleodovný URL a nainštaluj doplnok:
+V aplikácii Stremio klikni na "Addons" a potom na tlačidlo "Add addon" alebo jednoducho zadaj nasledovný odkaz do vyhľadávacieh poľa a nainštaluj doplnok:
 http://127.0.0.1:7000/manifest.json
 
 ## 🔍 Vlastnosti doplnku
