@@ -7,6 +7,7 @@ Tento doplnok pre [Stremio](https://www.stremio.com/) umožňuje vyhľadávanie 
 - 📡 Streamov v kvalite **🟦 HD (720p) / 🟨 SD (480p) /  🟥 LD (360p)**
 - 🇨🇿 🇸🇰 🇬🇧 ... Jazykové vlajky podľa názvu streamu (Jazykové značky (vlajky) sú automaticky rozpoznávané z názvu streamu (napr. 🇨🇿, 🇸🇰, 🇬🇧, atď.))
 
+Note: Use [Node.js](https://nodejs.org/en/blog/release/v20.9.0) v 20.09 LTS for testing.
 ---
 
 ## ⚙️ Lokálna inštalácia a spustenie
