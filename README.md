@@ -42,10 +42,10 @@ http://127.0.0.1:7000/manifest.json
 - Automatická extrakcia jazykových vlajok zo streamu.
 - Viacero pokusov pri vyhľadávaní na základe originálneho aj lokalizovaného názvu.
 - Optimalizovaný výstup pre Stremio rozhranie (názov, jazyk, kvalita, zdroj).
-- Podpora len priameho streamovania .mp4 z online.sktorrent.eu.
+- Podpora len priameho streamovania .mp4 z [online.sktorrent.eu](https://online.sktorrent.eu).
 
 ## 📜 Právne upozornenie
-Tento addon je určený len na osobné experimentálne účely. Neobsahuje žiadny vlastný multimediálny obsah – slúži výhradne ako index pre verejne dostupné videá z domény online.sktorrent.eu.
+Tento addon je určený len na osobné experimentálne účely. Neobsahuje žiadny vlastný multimediálny obsah – slúži výhradne ako index pre verejne dostupné videá z domény [online.sktorrent.eu](https://online.sktorrent.eu).
 
 Používateľ nesie plnú zodpovednosť za akékoľvek použitie. Vývojár nenesie žiadnu zodpovednosť za používanie doplnku, porušenie autorských práv alebo streamovanie chráneného obsahu. Streamovanie akéhokoľvek obsahu je na vlastné riziko.
 
@@ -57,7 +57,7 @@ MIT License (voľné použitie, bez záruky)
 
 ## 👨‍💻 Autor
 
-Tento addon bol vyvinutý ako komunitný projekt s cieľom poskytnúť streamingový rozšíriteľný doplnok pre platformu Stremio, využívajúci verejne dostupné odkazy z online.sktorrent.eu.
+Tento addon bol vyvinutý ako komunitný projekt s cieľom poskytnúť streamingový rozšíriteľný doplnok pre platformu Stremio, využívajúci verejne dostupné odkazy z [online.sktorrent.eu](https://online.sktorrent.eu).
 
 Tento doplnok je experimentálny projekt na osobné účely.
 
