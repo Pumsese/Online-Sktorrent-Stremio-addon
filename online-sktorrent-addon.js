@@ -204,7 +204,7 @@ builder.defineStreamHandler(async ({ type, id }) => {
     return { streams: allStreams };
 });
 
-builder.defineCatalogHandler(({ type, id }) => {
+builder.defineCatalogHandler(async ({ type, id }) => {
     console.log(`[DEBUG] 📚 Katalóg požiadavka pre typ='${type}' id='${id}'`);
     return { metas: [] };
 });
