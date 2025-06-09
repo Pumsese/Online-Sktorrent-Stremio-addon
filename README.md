@@ -62,3 +62,6 @@ Tento addon bol vyvinutý ako komunitný projekt s cieľom poskytnúť streaming
 Tento doplnok je experimentálny projekt na osobné účely.
 
 Ak máš návrhy na vylepšenie alebo chceš prispieť – neváhaj a pošli pull request.
+
+Ukážka z lokálneho testovania doplnku:
+<img title="Addon Usage Sample" alt="Example of Addon Usage" src="/sample.png">
