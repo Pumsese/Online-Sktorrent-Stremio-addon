@@ -62,3 +62,32 @@ Tento addon bol vyvinutý ako komunitný projekt s cieľom poskytnúť streaming
 Tento doplnok je experimentálny projekt na osobné účely.
 
 Ak máš návrhy na vylepšenie alebo chceš prispieť – neváhaj a pošli pull request.
+
+Ukážka z lokálneho testovania doplnku:
+<img title="Addon Usage Sample" alt="Example of Addon Usage" src="/sample.png">
+
+🛠️ Krok za krokom: Deploy na Render (online testovanie)
+
+    - Vytvor nový GitHub repozitár s týmito súbormi (alebo vytvor fork projektu na svojom GitHub učte)
+    - Prejdi na: https://render.com/ a zaregistruj sa / prihlás.
+    - Klikni na "New +" → "Web Service".
+    - Vyber možnosť "Deploy from a Git repository" a prepoj svoj GitHub účet.
+    - Vyber svoj repozitár (napr. Online-Sktorrent-Stremio-addon).
+    - Vyplň nastavenia:
+        Name: napr. Online-Sktorrent-Stremio-addon
+        Environment: Node
+        Build Command:	 npm install
+        Start Command:   node Online-sktorrent-addon.js
+        Region: podľa tvojho výberu
+        Instance Type: Free (ak ti postačuje)
+    - Klikni "Create Web Service".
+
+🌐 Po deploy
+
+Po deployi ti Render vygeneruje URL napr.:
+
+https://sktorrent-addon.onrender.com/manifest.json
+
+Túto adresu môžeš použiť v Stremio na inštaláciu doplnku a jeho testovanie.
+
+
